@@ -10,3 +10,8 @@ h1 {
 body {
   background: grey
 }
+
+a:hover {
+  color: yellow;
+  background-color: black;
+}
